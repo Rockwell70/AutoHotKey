@@ -1,3 +1,0 @@
-C:/dev/AutoHotKey/cmake-build-debug/CMakeFiles/AutoHotKey.dir
-C:/dev/AutoHotKey/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/dev/AutoHotKey/cmake-build-debug/CMakeFiles/rebuild_cache.dir
